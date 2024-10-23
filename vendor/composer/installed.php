@@ -3,7 +3,7 @@
         'name' => 'burger/krig',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'c37f9b58039733f2b6d7c8c6388edb37973cc8ae',
+        'reference' => '06807e78e71124f59cbae2c68572a7309b68fcd7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'burger/krig' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'c37f9b58039733f2b6d7c8c6388edb37973cc8ae',
+            'reference' => '06807e78e71124f59cbae2c68572a7309b68fcd7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
