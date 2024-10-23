@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"Test\\ProductTest::test_router":0.002,"Test\\RouterTest::test_router":0.001,"Test\\InviteTest::test_router":0.011}}
+{"version":1,"defects":[],"times":{"Test\\ProductTest::test_router":0.003,"Test\\RouterTest::test_router":0.002,"Test\\InviteTest::test_router":0.01}}
